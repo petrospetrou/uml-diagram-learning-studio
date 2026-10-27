@@ -16,14 +16,6 @@ An interactive Greek learning studio for building and exploring UML and system-m
 
 Open `index.html` in a modern browser. No installation or internet connection is required.
 
-## Publish with GitHub Pages
-
-1. Upload the contents of this folder to the repository root.
-2. In **Settings → Pages**, select **Deploy from a branch**.
-3. Choose the `main` branch and `/ (root)`, then save.
-
-The small GitHub icon in the studio links students directly to the source repository.
-
 ## Educational scope
 
-The diagrams are focused teaching examples for ECE317. They illustrate modelling decisions; they do not replace requirements validation or performance testing.
+The diagrams are focused teaching examples. They illustrate modelling decisions; they do not replace requirements validation or performance testing.
